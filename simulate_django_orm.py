@@ -118,6 +118,9 @@ while True:
     else:
         print("invalid input")
 
+conn.close()
+print("connection closed")
+
 
 
 
