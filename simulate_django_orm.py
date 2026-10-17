@@ -3,6 +3,7 @@ conn=mysql.connector.connect(host="localhost",user="root",password="root",databa
 cur=conn.cursor()
 # cur.execute("create database DjangoORM")
 # print("Database created")
+print("successfully created")
 
 # cur.execute('''create table employee(
 # id int primary key auto_increment,
