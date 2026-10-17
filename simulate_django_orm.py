@@ -120,9 +120,3 @@ while True:
 
 conn.close()
 print("connection closed")
-
-
-
-
-
-conn.close()
